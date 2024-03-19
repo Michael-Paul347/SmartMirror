@@ -10,10 +10,7 @@ coverage
 .lock-wscript
 build/Release
 /node_modules/**/*
-fonts/node_modules/**/*
-vendor/node_modules/**/*
-!/tests/node_modules/**/*
-jspm_modules
+!/tests/node_modules/**/*s
 .npm
 .node_repl_history
 
@@ -59,7 +56,7 @@ Temporary Items
 
 # Ignore all modules except the default modules
 # Ignore changes to the custom css files.
-/css/custom.css
+
 
 # Ignore users config file but keep the sample.
 
