@@ -9,7 +9,7 @@ Module.register("compliments", {
 	defaults: {
 		compliments: {
 			anytime: ["You look Awesome!"],
-			morning: ["Your outfit matches you!", "Wonderfulg?"],
+			morning: ["Your outfit matches you!", "Wonderful?"],
 			afternoon: ["Hello, beauty!", "You look AMAZING!", "Looking good today!"],
 			evening: ["you look Dashing!", "You look nice!"],
 			
